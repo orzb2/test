@@ -1480,9 +1480,9 @@
     },
     {
       "type": "library",
-      "bom-ref": "pkg:npm/ws@6.2.0",
+      "bom-ref": "pkg:npm/ws@6.2.1",
       "name": "ws",
-      "version": "6.2.0",
+      "version": "6.2.1",
       "description": "Simple to use, blazing fast and thoroughly tested websocket client and server for Node.js",
       "hashes": [
         {
@@ -1497,7 +1497,7 @@
           }
         }
       ],
-      "purl": "pkg:npm/ws@6.2.0",
+      "purl": "pkg:npm/ws@6.2.1",
       "externalReferences": [
         {
           "type": "website",
@@ -1515,9 +1515,9 @@
     },
     {
       "type": "library",
-      "bom-ref": "pkg:npm/async-limiter@1.0.1.1",
+      "bom-ref": "pkg:npm/async-limiter@1.0.1",
       "name": "async-limiter",
-      "version": "1.0.1.1",
+      "version": "1.0.1",
       "description": "asynchronous function queue with adjustable concurrency",
       "hashes": [
         {
@@ -1532,7 +1532,7 @@
           }
         }
       ],
-      "purl": "pkg:npm/async-limiter@1.0.1.1",
+      "purl": "pkg:npm/async-limiter@1.0.1",
       "externalReferences": [
         {
           "type": "website",
